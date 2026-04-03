@@ -213,4 +213,4 @@ See [`docs/class-diagram.md`](docs/class-diagram.md)
 
 ## Eclipse Setup
 
-See [`ECLIPSE_SETUP_GUIDE.md`](ECLIPSE_SETUP_GUIDE.md) for step-by-step instructions.
+See [`ECLIPSE_SETUP_GUIDE.md`](ECLIPSE_SETUP_GUIDE.md) for step-by-step instructions
